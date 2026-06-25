@@ -70,7 +70,8 @@ Mojang Studios.
 
 ### Contact
 
-For questions about this application, please open an issue on this repository.
+If you have any questions about this application, you can open an issue in this repository or reach out to us via our Discord server:
+https://discord.gg/AMZ8anwGx
 
 ---
 
@@ -134,7 +135,8 @@ Studios'un ticari markasıdır.
 
 ### İletişim
 
-Bu uygulama hakkındaki sorularınız için lütfen bu depoda bir issue açın.
+Bu uygulama hakkındaki sorularınız için bu depoda bir hata kaydı (issue) açabilir veya Discord sunucumuz üzerinden bizimle iletişime geçebilirsiniz:
+https://discord.gg/AMZ8anwGx
 
 ---
 
