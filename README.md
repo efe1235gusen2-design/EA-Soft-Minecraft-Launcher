@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="logo.png" alt="EA Soft Desktop Minecraft Launcher" width="140" />
+<img src="logo.png" alt="EA Soft Minecraft Launcher" width="140" />
 
-# EA Soft Desktop Minecraft Launcher
+# EA Soft Minecraft Launcher
 
 **A modern, fast desktop launcher for Minecraft: Java Edition.**
 **Minecraft: Java Edition için modern ve hızlı bir masaüstü başlatıcısı.**
@@ -19,7 +19,7 @@ Built with Tauri, Rust, and TypeScript.
 
 ### About
 
-EA Soft Desktop Minecraft Launcher is a desktop application that lets players manage and
+EA Soft Minecraft Launcher is a desktop application that lets players manage and
 launch their legally-owned copy of **Minecraft: Java Edition**. It focuses on a
 clean interface, fast performance, and flexible account support.
 
@@ -79,7 +79,7 @@ https://discord.gg/AMZ8anwGx
 
 ### Hakkında
 
-EA Soft Desktop Minecraft Launcher, oyuncuların yasal olarak sahip oldukları
+EA Soft Minecraft Launcher, oyuncuların yasal olarak sahip oldukları
 **Minecraft: Java Edition** kopyalarını yönetip başlatmalarını sağlayan bir
 masaüstü uygulamasıdır. Temiz bir arayüz, yüksek performans ve esnek hesap
 desteğine odaklanır.
@@ -141,5 +141,5 @@ https://discord.gg/AMZ8anwGx
 ---
 
 <div align="center">
-<sub>EA Soft Desktop Minecraft Launcher — an independent launcher for Minecraft: Java Edition.</sub>
+<sub>EA Soft Minecraft Launcher — an independent launcher for Minecraft: Java Edition.</sub>
 </div>
