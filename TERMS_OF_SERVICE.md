@@ -9,23 +9,23 @@
 
 # Terms of Service
 
-_Last updated: June 27, 2026_
+_Last updated: September 19, 2026_
 
-These Terms of Service ("Terms") govern your use of **EA Soft Minecraft Launcher** ("the Launcher", "the Software", "we", "us"), an open-source desktop application that helps you download, manage, and start Minecraft: Java Edition. By downloading, installing, or using the Launcher, you agree to these Terms. If you do not agree, please do not use the Launcher.
+These Terms of Service ("Terms") govern your use of **EA Soft Minecraft Launcher** ("the Launcher", "the Software", "we", "us"), a desktop application focused on transparency and following a semi-open-source approach that helps you download, manage, and start Minecraft: Java Edition. By downloading, installing, or using the Launcher, you agree to these Terms. If you do not agree, please do not use the Launcher.
 
 ## 1. What the Launcher Is
 
-EA Soft Minecraft Launcher is a free, open-source, fan-made tool. It is **not affiliated with, endorsed by, or sponsored by Mojang Studios, Microsoft, or any of their partners.** "Minecraft" is a trademark of Mojang Studios. The Launcher simply provides a convenient interface to features such as version management, mod loading (Fabric), account sign-in, and Java management.
+EA Soft Minecraft Launcher is a free, fan-made tool that follows a semi-open-source approach and focuses on transparency. It is **not affiliated with, endorsed by, or sponsored by Mojang Studios, Microsoft, or any of their partners.** "Minecraft" is a trademark of Mojang Studios. The Launcher simply provides a convenient interface to features such as version management, mod loading (Fabric), account sign-in, and Java management.
 
 ## 2. Account Sign-In
 
 The Launcher allows you to sign in using:
 
-- **Microsoft accounts**, through Microsoft's official OAuth sign-in flow, to authenticate ownership of Minecraft: Java Edition.
-- **ely.by accounts**, a third-party authentication service.
-- **Offline accounts**, which use only a username and provide no online authentication.
+- **Microsoft accounts** — through Microsoft's official OAuth sign-in flow to verify ownership of Minecraft: Java Edition.
+- **ely.by accounts** — a third-party authentication service.
+- **Offline accounts** — which use only a username and provide no online authentication.
 
-You are responsible for keeping your account credentials secure. You must own a valid copy of Minecraft: Java Edition to play online and on official servers. The Launcher does not bypass, circumvent, or remove any authentication, license check, or copy protection.
+You are responsible for keeping your account credentials secure. You must own a valid copy of Minecraft: Java Edition to play online and on official servers. The Launcher does not bypass, circumvent, disable, or remove any authentication, license check, or copy protection.
 
 ## 3. Acceptable Use
 
@@ -40,7 +40,7 @@ You are solely responsible for any mods, resource packs, or other content you ch
 
 ## 4. Third-Party Content
 
-The Launcher can download mods, shaders, and resource packs from third-party sources such as Modrinth, and can sign in through Microsoft and ely.by. We do not own, control, or guarantee that third-party content or services. Your use of them is subject to their own terms. We are not responsible for any third-party content's safety, legality, or behavior.
+The Launcher can download mods, shaders, and resource packs from third-party sources such as Modrinth, and can sign in through Microsoft and ely.by. We do not own, control, or guarantee these third-party contents or services. Your use of them is subject to their own terms. We are not responsible for the safety, legality, or behavior of third-party content.
 
 ## 5. No Warranty
 
@@ -50,9 +50,9 @@ The Launcher is provided **"as is" and "as available", without warranty of any k
 
 To the maximum extent permitted by law, the developers of the Launcher shall **not be liable** for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with your use of (or inability to use) the Launcher, including but not limited to data loss, account issues, or game-file problems.
 
-## 7. Open Source
+## 7. Semi-Open Source and Transparency
 
-The Launcher is open-source software. Its source code is available on its GitHub repository under the license stated there. You are free to inspect, modify, and contribute to the project in accordance with that license.
+The Launcher is developed according to semi-open-source and transparency principles. Publicly available source code and related technical information allow the project to be inspected and contributed to. However, not all components or operational details of the project are required to be public; some parts may remain closed for security, service continuity, or technical reasons. Publicly available code must be used in accordance with its applicable license and terms.
 
 ## 8. Changes to These Terms
 
@@ -60,21 +60,19 @@ We may update these Terms from time to time. The "Last updated" date at the top 
 
 ## 9. Contact
 
-For questions about these Terms, please open an issue on the project's GitHub repository:
-<https://github.com/efe1235gusen2-design/EA-Soft-Minecraft-Launcher>
+For questions about these Terms, please join our Discord community or register on the website and submit a support request.
 
----
 ---
 
 # Hizmet Koşulları
 
-_Son güncelleme: 27 Haziran 2026_
+_Son güncelleme: 19 Eylül 2026_
 
-Bu Hizmet Koşulları ("Koşullar"), Minecraft: Java Edition'ı indirmenize, yönetmenize ve başlatmanıza yardımcı olan açık kaynaklı bir masaüstü uygulaması olan **EA Soft Minecraft Launcher** ("Başlatıcı", "Yazılım", "biz") kullanımınızı düzenler. Başlatıcı'yı indirerek, kurarak veya kullanarak bu Koşulları kabul etmiş olursunuz. Kabul etmiyorsanız lütfen Başlatıcı'yı kullanmayın.
+Bu Hizmet Koşulları ("Koşullar"), Minecraft: Java Edition'ı indirmenize, yönetmenize ve başlatmanıza yardımcı olan; şeffaflık odaklı ve yarı açık kaynak yaklaşımını benimseyen bir masaüstü uygulaması olan **EA Soft Minecraft Launcher** ("Başlatıcı", "Yazılım", "biz") kullanımınızı düzenler. Başlatıcı'yı indirerek, kurarak veya kullanarak bu Koşulları kabul etmiş olursunuz. Kabul etmiyorsanız lütfen Başlatıcı'yı kullanmayın.
 
 ## 1. Başlatıcı Nedir
 
-EA Soft Minecraft Launcher ücretsiz, açık kaynaklı, hayran yapımı bir araçtır. **Mojang Studios, Microsoft veya onların ortaklarıyla herhangi bir bağlantısı yoktur, onlar tarafından onaylanmamış veya desteklenmemiştir.** "Minecraft", Mojang Studios'un ticari markasıdır. Başlatıcı yalnızca sürüm yönetimi, mod yükleme (Fabric), hesap girişi ve Java yönetimi gibi özelliklere kullanışlı bir arayüz sağlar.
+EA Soft Minecraft Launcher ücretsiz, yarı açık kaynak yaklaşımını benimseyen, şeffaflık odaklı ve hayran yapımı bir araçtır. **Mojang Studios, Microsoft veya onların ortaklarıyla herhangi bir bağlantısı yoktur, onlar tarafından onaylanmamış veya desteklenmemiştir.** "Minecraft", Mojang Studios'un ticari markasıdır. Başlatıcı yalnızca sürüm yönetimi, mod yükleme (Fabric), hesap girişi ve Java yönetimi gibi özelliklere kullanışlı bir arayüz sağlar.
 
 ## 2. Hesap Girişi
 
@@ -109,9 +107,9 @@ Başlatıcı, açık veya örtük hiçbir garanti olmaksızın **"olduğu gibi" 
 
 Yasaların izin verdiği azami ölçüde, Başlatıcı geliştiricileri; veri kaybı, hesap sorunları veya oyun dosyası problemleri dahil ancak bunlarla sınırlı olmamak üzere, Başlatıcı'yı kullanmanızdan (veya kullanamamanızdan) kaynaklanan hiçbir doğrudan, dolaylı, arızi, sonuçsal veya özel zarardan **sorumlu tutulamaz.**
 
-## 7. Açık Kaynak
+## 7. Yarı Açık Kaynak ve Şeffaflık
 
-Başlatıcı açık kaynaklı bir yazılımdır. Kaynak kodu, GitHub deposunda belirtilen lisans altında mevcuttur. Bu lisansa uygun olarak projeyi inceleyebilir, değiştirebilir ve katkıda bulunabilirsiniz.
+Başlatıcı, yarı açık kaynak yaklaşımı ve şeffaflık ilkeleriyle geliştirilir. Kamuya açık kaynak kodu ve ilgili teknik bilgiler, projenin incelenmesine ve katkıda bulunulmasına olanak sağlar. Ancak projenin tüm bileşenleri veya operasyonel ayrıntıları kamuya açık olmak zorunda değildir; bazı bölümler güvenlik, hizmet sürekliliği veya teknik gereklilikler nedeniyle kapalı tutulabilir. Kamuya açık kod için geçerli lisans ve kullanım şartlarına uyulması gerekir.
 
 ## 8. Bu Koşullardaki Değişiklikler
 
@@ -119,5 +117,4 @@ Bu Koşulları zaman zaman güncelleyebiliriz. Üstteki "Son güncelleme" tarihi
 
 ## 9. İletişim
 
-Bu Koşullar hakkında sorularınız için lütfen projenin GitHub deposunda bir "issue" açın:
-<https://github.com/efe1235gusen2-design/EA-Soft-Minecraft-Launcher>
+Bu koşullarla ilgili sorularınız için lütfen Discord topluluğumuza katılın veya bu siteye kayıt olarak destek talebinde bulunun.
