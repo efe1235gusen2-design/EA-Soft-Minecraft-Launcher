@@ -9,9 +9,9 @@
 
 # Privacy Policy
 
-_Last updated: June 27, 2026_
+_Last updated: September 19, 2026_
 
-This Privacy Policy explains how **EA Soft Minecraft Launcher** ("the Launcher", "we", "us") handles your information. The Launcher is a free, open-source desktop application that is **not affiliated with Mojang Studios or Microsoft.** We have designed it to keep your data on your own device wherever possible.
+This Privacy Policy explains how **EA Soft Minecraft Launcher** ("the Launcher", "we", "us") handles your information. The Launcher is a free desktop application that follows a semi-open-source approach and focuses on transparency. It is **not affiliated with Mojang Studios or Microsoft.** We have designed it to keep your data on your own device wherever possible.
 
 ## 1. Our Core Principle
 
@@ -33,7 +33,7 @@ You can delete this data at any time by removing an account in the Launcher or b
 When you use certain features, the Launcher communicates **directly** with third-party services on your behalf:
 
 - **Microsoft / Xbox Live / Minecraft services** — when you sign in with a Microsoft account, your sign-in is handled through Microsoft's official OAuth flow to verify that you own Minecraft: Java Edition. This is governed by [Microsoft's Privacy Statement](https://privacy.microsoft.com/privacystatement).
-- **ely.by** — if you choose to sign in with ely.by, your credentials are sent to ely.by's servers. This is governed by ely.by's own privacy policy.
+- **ely.by** — if you choose to sign in with ely.by, your information is sent to ely.by's servers. This is governed by ely.by's own privacy policy.
 - **Modrinth** — when you browse or download mods, shaders, or resource packs, the Launcher requests that content from Modrinth's public API. This is governed by Modrinth's privacy policy.
 - **GitHub** — the Launcher checks the project's GitHub repository for news and updates. This is governed by GitHub's privacy policy.
 
@@ -54,9 +54,9 @@ The Launcher is a tool for playing Minecraft and does not knowingly collect pers
 
 Because your data stays on your own device, its security depends largely on your computer's security. We recommend keeping your operating system and antivirus up to date and not sharing your account credentials. Authentication tokens are stored locally and are used only to communicate with the official services they belong to.
 
-## 7. Open Source Transparency
+## 7. Semi-Open Source and Transparency
 
-The Launcher is open source. You can inspect exactly what data it reads, stores, and sends by reading its source code on GitHub. This transparency is part of how we protect your privacy.
+The Launcher is developed according to semi-open-source and transparency principles. Publicly available source code and technical information allow you to inspect how data is processed. If some components or operational details are not public, they may be limited for security, service continuity, or technical reasons. This transparency is part of our approach to protecting your privacy.
 
 ## 8. Changes to This Policy
 
@@ -64,17 +64,15 @@ We may update this Privacy Policy from time to time. The "Last updated" date at 
 
 ## 9. Contact
 
-For privacy questions, please open an issue on the project's GitHub repository:
-<https://github.com/efe1235gusen2-design/EA-Soft-Minecraft-Launcher>
+For privacy questions, please join our Discord community or register on the website and submit a support request.
 
----
 ---
 
 # Gizlilik Bildirimi
 
-_Son güncelleme: 27 Haziran 2026_
+_Son güncelleme: 19 Eylül 2026_
 
-Bu Gizlilik Bildirimi, **EA Soft Minecraft Launcher** ("Başlatıcı", "biz") uygulamasının bilgilerinizi nasıl ele aldığını açıklar. Başlatıcı, **Mojang Studios veya Microsoft ile bağlantısı olmayan**, ücretsiz, açık kaynaklı bir masaüstü uygulamasıdır. Verilerinizi mümkün olduğunca kendi cihazınızda tutacak şekilde tasarlanmıştır.
+Bu Gizlilik Bildirimi, **EA Soft Minecraft Launcher** ("Başlatıcı", "biz") uygulamasının bilgilerinizi nasıl ele aldığını açıklar. Başlatıcı, yarı açık kaynak yaklaşımını ve şeffaflığı benimseyen ücretsiz bir masaüstü uygulamasıdır. **Mojang Studios veya Microsoft ile bağlantısı yoktur.** Verilerinizi mümkün olduğunca kendi cihazınızda tutacak şekilde tasarlanmıştır.
 
 ## 1. Temel İlkemiz
 
@@ -117,9 +115,9 @@ Başlatıcı, Minecraft oynamak için bir araçtır ve çocuklar dahil hiç kims
 
 Verileriniz kendi cihazınızda kaldığı için güvenliği büyük ölçüde bilgisayarınızın güvenliğine bağlıdır. İşletim sisteminizi ve antivirüsünüzü güncel tutmanızı ve hesap bilgilerinizi paylaşmamanızı öneririz. Kimlik doğrulama tokenları yerel olarak saklanır ve yalnızca ait oldukları resmi hizmetlerle iletişim kurmak için kullanılır.
 
-## 7. Açık Kaynak Şeffaflığı
+## 7. Yarı Açık Kaynak ve Şeffaflık
 
-Başlatıcı açık kaynaklıdır. Hangi verileri okuduğunu, sakladığını ve gönderdiğini, GitHub'daki kaynak kodunu okuyarak tam olarak inceleyebilirsiniz. Bu şeffaflık, gizliliğinizi koruma yöntemimizin bir parçasıdır.
+Başlatıcı, yarı açık kaynak yaklaşımı ve şeffaflık ilkeleriyle geliştirilir. Kamuya açık kaynak kodu ve teknik bilgiler, verilerin nasıl işlendiğini incelemenize olanak sağlar. Bazı bileşenler veya operasyonel ayrıntılar kamuya açık değilse bunlar güvenlik, hizmet sürekliliği veya teknik gereklilikler nedeniyle sınırlandırılmış olabilir. Bu şeffaflık, gizliliğinizi koruma yaklaşımımızın bir parçasıdır.
 
 ## 8. Bu Bildirimdeki Değişiklikler
 
@@ -127,5 +125,4 @@ Bu Gizlilik Bildirimini zaman zaman güncelleyebiliriz. Üstteki "Son güncellem
 
 ## 9. İletişim
 
-Gizlilikle ilgili sorularınız için lütfen projenin GitHub deposunda bir "issue" açın:
-<https://github.com/efe1235gusen2-design/EA-Soft-Minecraft-Launcher>
+Gizlilikle ilgili sorularınız için lütfen Discord topluluğumuza katılın veya bu siteye kayıt olarak destek talebinde bulunun.
